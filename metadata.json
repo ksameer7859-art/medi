@@ -1,0 +1,6 @@
+{
+  "name": "MediVision AI",
+  "description": "Futuristic AI-powered healthcare platform with premium glow-based UI, featuring X-ray analysis, remote consultations, and smart health management.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
